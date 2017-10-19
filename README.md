@@ -47,9 +47,6 @@ Suggested Emojis
 | :books: | `:books:` | when writing **docs** |
 | :bug: | `:bug:` | when reporting a **bug**, with [`@FIXME`](https://github.com/slashsBin/styleguide-todo-grammar#bug-report)Comment Tag |
 | :ambulance: | `:ambulance:` | when fixing a **bug** |
-| :penguin: | `:penguin:` | when fixing something on **Linux** |
-| :apple: | `:apple:` | when fixing something on **Mac OS** |
-| :checkered_flag: | `:checkered_flag:` | when fixing something on **Windows** |
 | :fire: | `:fire:` | when **removing code** or files, _maybe_ with `@CHANGED` Comment Tag |
 | :tractor: | `:tractor:` | when **change file structure**. Usually together with :art: |
 | :umbrella: | `:umbrella:` | when adding **tests** |
