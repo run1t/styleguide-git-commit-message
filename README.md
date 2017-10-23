@@ -41,6 +41,7 @@ Suggested Emojis
 | Emoji | Raw Emoji Code | Description |
 |:---:|:---:|---|
 | :art: | `:art:` | when improving the **format**/structure of the code |
+| :sweat_drops: | `:sweat_drops:` | When removing **whitespaces** or **deadcodes** |
 | :newspaper: | `:newspaper:` | when creating a **new file** |
 | :pencil: | `:pencil:` | when **performing minor changes/fixing** the code or language |
 | :racehorse: | `:racehorse:` | when improving **performance** |
